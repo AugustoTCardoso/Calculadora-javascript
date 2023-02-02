@@ -1,0 +1,22 @@
+#inputCalc{
+    font-size: 25px;
+    width: 100%;
+    text-align: right;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.areaCalc{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.row div{
+    padding: 0;
+}
+
+.row div button{
+    width: 100%;
+}
+
+
